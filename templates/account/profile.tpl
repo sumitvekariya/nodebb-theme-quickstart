@@ -78,7 +78,7 @@
 			<!-- ENDIF email -->
 
             <span>[[user:numberOfLogins]]</span>
-			<strong class="timeago" title="{numberOfLogins}"></strong><br />
+			<strong title="{numberOfLogins}"></strong><br />
 
 			<!-- IF websiteName -->
 			<span>[[user:website]]</span>
