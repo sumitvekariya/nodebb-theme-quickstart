@@ -58,6 +58,11 @@
 				<div><a class="human-readable-number" title="{counts.following}" href="{config.relative_path}/user/{userslug}/following">{counts.following}</a></div>
 				<span class="stat-label">[[user:following]]</span>
 			</div>
+
+            <div class="stat">
+				<div><a class="human-readable-number" title="Total Logins">{counts.numberOfLogins}</a></div>
+				<span class="stat-label">Total Logins</span>
+			</div>
 		</div>
 
 		<div class="text-center profile-meta">
