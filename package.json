@@ -12,10 +12,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sumitvekariya/nodebb-theme-quickstart"
+        "url": "https://github.com/sumitvekariya/nodebb-theme-sumit"
     },
     "bugs": {
-        "url": "https://github.com/sumitvekariya/nodebb-theme-quickstart/issues"
+        "url": "https://github.com/sumitvekariya/nodebb-theme-sumit/issues"
     },
     "husky": {
         "hooks": {
